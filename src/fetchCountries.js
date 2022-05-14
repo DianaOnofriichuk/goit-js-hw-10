@@ -17,7 +17,6 @@ export default class NewApiServise {
         }
         return response.json();
       })
-      .then(data => data)
       .catch(error => {
         console.log(error);
       });
