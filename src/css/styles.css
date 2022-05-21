@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box;
 }
+h1 {
+  color: #5c3860;
+}
 li {
   list-style: none;
 }
@@ -19,7 +22,6 @@ body {
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
-  margin-top: 20px;
 }
 .country-container {
   display: flex;
